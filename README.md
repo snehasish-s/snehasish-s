@@ -68,7 +68,7 @@ fun_fact  : "I treat coding problems like plot twists in novels 📖"
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                        🏢  TATA POWER GROUP                         ║
+║                        🏢  TATA POWER GROUP                          ║
 ║           Java & Cloud Developer Intern  |  Jun – Jul 2025           ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  ▶  Built REST APIs with Java Spring Boot                            ║
@@ -81,7 +81,7 @@ fun_fact  : "I treat coding problems like plot twists in novels 📖"
 ║              Space Technology Trainee  |  Jan 2026                   ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  ▶  GIS-based disaster monitoring via satellite imagery              ║
-║  ▶  Processed ResourceSat, Sentinel & MODIS data                    ║
+║  ▶  Processed ResourceSat, Sentinel & MODIS data                     ║
 ║  ▶  Built geospatial pipelines for flood mapping & env. analysis     ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -280,7 +280,7 @@ fun_fact  : "I treat coding problems like plot twists in novels 📖"
 <br/><br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=📍+Bhubaneswar%2C+India;📞+%2B91+9114424401;💡+Open+to+Collaborations+%26+Opportunities!" alt="Contact Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=📍+Bhubaneswar%2C+India;💡+Open+to+Collaborations+%26+Opportunities!" alt="Contact Typing" />
 </a>
 
 </div>
