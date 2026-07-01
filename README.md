@@ -3,8 +3,64 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1a9fd9,100:00d4ff&height=200&section=header&text=Omm%20Snehasish%20Parida&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud-Focused%20Backend%20Engineer&descAlignY=60&descSize=18&descColor=c9e8ff"/>
 
-<!-- Typing SVG - Role Rotator (self-hosted, no third-party dependency) -->
-<img src="typing-role.svg" alt="Typing SVG" width="700" height="40" />
+<svg width="700" height="40" viewBox="0 0 700 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .role {
+      font-family: 'Courier New', Consolas, monospace;
+      font-size: 24px;
+      font-weight: 700;
+      fill: #0E75B6;
+    }
+  </style>
+
+  <!-- Each line fades in, holds, fades out, then the next begins.
+       5 lines x 2.8s hold + 0.4s crossfade = ~16s full loop, repeats forever. -->
+
+  <text x="10" y="27" class="role" opacity="0">
+    ☁️ Cloud &amp; Backend Engineer
+    <animate attributeName="opacity"
+      values="0;1;1;0;0;0;0;0;0;0;0"
+      keyTimes="0;0.03;0.16;0.19;0.19;1;1;1;1;1;1"
+      dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="10" y="27" class="role" opacity="0">
+    🚀 Java | Spring Boot | Docker | AWS
+    <animate attributeName="opacity"
+      values="0;0;0;1;1;0;0;0;0;0;0"
+      keyTimes="0;0.19;0.22;0.25;0.38;0.41;1;1;1;1;1"
+      dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="10" y="27" class="role" opacity="0">
+    🛰️ ISRO / NESAC | Tata Power Group
+    <animate attributeName="opacity"
+      values="0;0;0;0;0;1;1;0;0;0;0"
+      keyTimes="0;0.41;0.44;0.47;0.60;0.63;1;1;1;1;1"
+      dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="10" y="27" class="role" opacity="0">
+    🌏 Building at National Scale
+    <animate attributeName="opacity"
+      values="0;0;0;0;0;0;0;1;1;0;0"
+      keyTimes="0;0.63;0.66;0.69;0.82;0.85;1;1;1;1;1"
+      dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="10" y="27" class="role" opacity="0">
+    🏆 Hackathon Winner | ISRO Robotics R4
+    <animate attributeName="opacity"
+      values="0;0;0;0;0;0;0;0;0;1;1"
+      keyTimes="0;0.85;0.88;0.91;0.99;1;1;1;1;1;1"
+      dur="16s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="500" y="8" width="12" height="24" fill="#0E75B6">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
 
 <br/>
 
