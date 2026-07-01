@@ -3,10 +3,8 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1a9fd9,100:00d4ff&height=200&section=header&text=Omm%20Snehasish%20Parida&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud-Focused%20Backend%20Engineer&descAlignY=60&descSize=18&descColor=c9e8ff"/>
 
-<!-- Typing SVG - Role Rotator -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=800&color=0E75B6&center=true&vCenter=true&multiline=false&width=700&lines=☁️+Cloud+%26+Backend+Engineer;🚀+Java+%7C+Spring+Boot+%7C+Docker+%7C+AWS;🛰️+ISRO+%2F+NESAC+%7C+Tata+Power+Group;🌏+Building+at+National+Scale;🏆+Hackathon+Winner+%7C+ISRO+Robotics+R4" alt="Typing SVG" />
-</a>
+<!-- Typing SVG - Role Rotator (self-hosted, no third-party dependency) -->
+<img src="typing-role.svg" alt="Typing SVG" width="700" height="40" />
 
 <br/>
 
