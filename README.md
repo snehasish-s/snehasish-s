@@ -237,23 +237,6 @@ fun_fact  : "I treat coding problems like plot twists in novels 📖"
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehasish-s&theme=tokyo-night&hide_border=true&area=true&custom_title=Omm%27s%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 📫 Let's Connect!
 
