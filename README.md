@@ -228,9 +228,6 @@ fun_fact  : "I treat coding problems like plot twists in novels 📖"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehasish-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasish-s&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasish-s&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
 
 </div>
