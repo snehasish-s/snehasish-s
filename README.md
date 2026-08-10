@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1a9fd9,100:00d4ff&height=200&section=header&text=Omm%20Snehasish%20Parida&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud-Focused%20Backend%20Engineer&descAlignY=60&descSize=18&descColor=c9e8ff"/>
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1a9fd9,100:00d4ff&height=220&section=header&text=Omm%20Snehasish%20Parida&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud-Focused%20Backend%20Engineer%20%7C%20Geospatial%20%26%20Remote%20Sensing&descAlignY=55&descSize=16&descColor=c9e8ff"/>
 
-<!-- Typing SVG - Role Rotator (self-hosted, referenced as an image file — not inline) -->
-<img src="typing-role.svg" alt="Typing SVG" width="700" height="40" />
+<!-- Multi-line Typing SVG (rotating roles) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2600&pause=900&color=1A9FD9&center=true&vCenter=true&width=760&lines=Java+%2B+Spring+Boot+Backend+Engineer;Cloud+%E2%98%81%EF%B8%8F+AWS+%7C+Docker+%7C+CI%2FCD;Geospatial+%26+Remote+Sensing+Enthusiast;Ex-Intern+%40+Tata+Power+%7C+ISRO+NESAC;Turning+Coffee+%E2%98%95+into+Clean+APIs" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Badges Row -->
+<!-- Animated Badge Row -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=snehasish-s&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/snehasish-s?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1a1a2e" alt="followers"/>
@@ -23,12 +25,11 @@
   </a>
 </p>
 
-<!-- Animated divider -->
+<!-- Animated gradient divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-<!-- About Section -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -55,7 +56,6 @@ fun_fact  : "I treat coding problems like plot twists in novels 📖"
 
 <br clear="right"/>
 
-<!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
@@ -93,29 +93,19 @@ fun_fact  : "I treat coding problems like plot twists in novels 📖"
 <div align="center">
 
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions&theme=dark" />
+</a>
 
 ### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,flask,mysql,postgres,kafka&theme=dark" />
+</a>
+
+### 🛠️ Languages & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,c,js,react,git,linux,html,tailwind&theme=dark" />
+</a>
 
 ### 🌍 Geospatial & Satellite
 <p>
@@ -123,18 +113,6 @@ fun_fact  : "I treat coding problems like plot twists in novels 📖"
   <img src="https://img.shields.io/badge/Remote_Sensing-1A73E8?style=for-the-badge&logo=satellite&logoColor=white"/>
   <img src="https://img.shields.io/badge/NDVI_Analysis-2E7D32?style=for-the-badge&logo=leaflet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sentinel_Data-003087?style=for-the-badge&logo=esa&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 </div>
@@ -207,6 +185,54 @@ fun_fact  : "I treat coding problems like plot twists in novels 📖"
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Generated by the "Snake" GitHub Action — see snake.yml below for setup -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasish-s/snehasish-s/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehasish-s/snehasish-s/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/snehasish-s/snehasish-s/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats & Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=snehasish-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasish-s&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasish-s&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=snehasish-s&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=snehasish-s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SS,S,AAA,AA,A"/>
+
+</div>
+
+---
+
 ## 🏆 Awards & Certifications
 
 <div align="center">
@@ -224,16 +250,15 @@ fun_fact  : "I treat coding problems like plot twists in novels 📖"
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media.giphy.com/media/xUOxfjsW3wqfDdqOI4/giphy.gif" width="30"> Random Dev Quote
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasish-s&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
-
 
 ## 📫 Let's Connect!
 
@@ -257,10 +282,8 @@ fun_fact  : "I treat coding problems like plot twists in novels 📖"
 
 <br/><br/>
 
-<!-- Contact line - self-hosted, referenced as an image file — not inline -->
-<img src="typing-contact.svg" alt="Contact Typing" width="600" height="30" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+great+together." alt="Contact Typing" />
 
 </div>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a9fd9,100:0e75b6&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a9fd9,100:0e75b6&height=120&section=footer&animation=twinkling"/>
