@@ -1,289 +1,248 @@
+<!--
+  GITHUB PROFILE README — snehasish-s
+  Required repo: https://github.com/snehasish-s/snehasish-s (PUBLIC)
+  Put this file at the repository root. Upload assets/ and .github/workflows/ too.
+  Personal facts and achievements were adapted from the existing profile README.
+  Tools under "Currently exploring" are learning interests, not claimed expertise.
+-->
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1a9fd9,100:00d4ff&height=220&section=header&text=Omm%20Snehasish%20Parida&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud-Focused%20Backend%20Engineer%20%7C%20Geospatial%20%26%20Remote%20Sensing&descAlignY=55&descSize=16&descColor=c9e8ff"/>
+<img src="./assets/hero.svg" width="100%" alt="Animated professional developer banner for Omm Snehasish Parida" />
 
-<!-- Multi-line Typing SVG (rotating roles) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2600&pause=900&color=1A9FD9&center=true&vCenter=true&width=760&lines=Java+%2B+Spring+Boot+Backend+Engineer;Cloud+%E2%98%81%EF%B8%8F+AWS+%7C+Docker+%7C+CI%2FCD;Geospatial+%26+Remote+Sensing+Enthusiast;Ex-Intern+%40+Tata+Power+%7C+ISRO+NESAC;Turning+Coffee+%E2%98%95+into+Clean+APIs" alt="Typing SVG" />
-</a>
+<br />
 
-<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=850&color=42DFC9&center=true&vCenter=true&width=850&height=63&lines=Full+Stack+Developer+%7C+AI%2FGenAI+Engineer;Java+%2B+Spring+Boot+%7C+React+%2B+TypeScript;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Vector+Databases;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Cloud;Building+intelligent+products+end+to+end" alt="Animated typing list of developer roles and technologies" /></a>
 
-<!-- Animated Badge Row -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=snehasish-s&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/snehasish-s?label=Followers&style=for-the-badge&color=0e75b6&labelColor=1a1a2e" alt="followers"/>
-  <a href="https://linkedin.com/in/snehasish-s">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ommsnehasishparidaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://omm-snehasish-parida.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<br />
 
-<!-- Animated gradient divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="https://github.com/snehasish-s"><img src="https://komarev.com/ghpvc/?username=snehasish-s&label=PROFILE%20VIEWS&color=0e7490&style=for-the-badge" alt="Profile views" /></a>
+<a href="https://github.com/snehasish-s?tab=followers"><img src="https://img.shields.io/github/followers/snehasish-s?style=for-the-badge&logo=github&label=FOLLOWERS&color=6657c8&labelColor=162037" alt="GitHub followers" /></a>
+<a href="https://www.linkedin.com/in/snehasish-s"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:paridaommsnehasish@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+<a href="https://omm-snehasish-parida.onrender.com/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-15B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal portfolio" /></a>
+
+**<a href="#-about-me">About</a> · <a href="#-technical-toolkit">Skills</a> · <a href="#-selected-projects">Projects</a> · <a href="#-professional-journey">Experience</a> · <a href="#-contribution-activity">Activity</a> · <a href="#-lets-connect">Contact</a>**
 
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+---
 
-<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+## 👨‍💻 About Me
+
+> **I develop end-to-end applications where strong software engineering meets useful artificial intelligence.** My focus spans Java/Spring Boot backends, React interfaces, Python-based GenAI systems, retrieval-augmented generation (RAG), and cloud deployment.
 
 ```yaml
-name      : Omm Snehasish Parida
-title     : Cloud-Focused Backend Engineer
-location  : Bhubaneswar, India 🇮🇳
-education : B.Tech CSE @ Aryan Inst. of Engg. & Tech (BPUT)
-            Expected 2027 | SGPA: 8.95/10.00
-
-experience:
-  - "Java & Cloud Developer Intern — Tata Power Group (Jun–Jul 2025)"
-  - "Space Technology Trainee — NESAC, ISRO, Govt. of India (Jan 2026)"
-
-currently_learning:
-  - Spring Boot Advanced
-  - System Design
-  - Data Analytics
-  - GIS & Remote Sensing Tools
-
-fun_fact  : "I treat coding problems like plot twists in novels 📖"
+name: Omm Snehasish Parida
+based_in: Bhubaneswar, Odisha, India
+education: B.Tech in Computer Science & Engineering | Expected 2027
+focus:
+  - Full-stack applications and secure backend architecture
+  - Applied AI, large language models and RAG solutions
+  - AWS, Docker, DevOps and production deployment
+  - Geospatial computing, remote sensing and IoT
+currently: Full Stack Developer Trainee @ Quess Corp
+principle: "Build things that solve real problems, not just demos."
 ```
 
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+- 🔭 **Building:** full-stack products, document-intelligence applications, and AI-assisted workflows.
+- 🧠 **Interested in:** machine learning, NLP, neural networks, embeddings, LLM applications, and reliable AI systems.
+- ⚙️ **Engineering with:** Spring Boot, Spring Security, React, TypeScript, FastAPI, SQL, and Docker.
+- ☁️ **Cloud-minded:** AWS concepts, containerization, CI/CD pipelines, and deployment automation.
+- 🤝 **Open to:** engineering collaboration, AI product ideas, research-minded projects, and open source.
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Experience
+## 🧰 Technical Toolkit
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                        🏢  TATA POWER GROUP                          ║
-║           Java & Cloud Developer Intern  |  Jun – Jul 2025           ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  ▶  Built REST APIs with Java Spring Boot                            ║
-║  ▶  Containerized applications with Docker                           ║
-║  ▶  Worked on microservices, API docs & Agile practices              ║
-╚══════════════════════════════════════════════════════════════════════╝
+### 🧑‍💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,py,ts,js,c&theme=dark" alt="Java, Python, TypeScript, JavaScript and C" />
 
-╔══════════════════════════════════════════════════════════════════════╗
-║          🛰️  NESAC — Dept. of Space, Govt. of India (ISRO)          ║
-║              Space Technology Trainee  |  Jan 2026                   ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  ▶  GIS-based disaster monitoring via satellite imagery              ║
-║  ▶  Processed ResourceSat, Sentinel & MODIS data                     ║
-║  ▶  Built geospatial pipelines for flood mapping & env. analysis     ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+**Java · Python · TypeScript · JavaScript · SQL · C**
+
+### 🌐 Frontend & Full Stack
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,nodejs,express&theme=dark" alt="React, HTML, CSS, Tailwind, Vite, Node.js and Express" />
+
+**React · TypeScript · HTML5 · CSS3 · Tailwind CSS · Vite · Node.js fundamentals · Express.js fundamentals · Responsive UI · REST integration**
+
+### ⚙️ Backend, APIs & Security
+<img src="https://skillicons.dev/icons?i=spring,hibernate,fastapi,flask,postman,maven&theme=dark" alt="Spring, Hibernate, FastAPI, Flask, Postman and Maven" />
+
+**Spring Boot · Spring MVC · Spring Security · Spring Data JPA · Hibernate · FastAPI · Flask · REST APIs · JWT · RBAC · DTO validation · Layered architecture · API testing**
+
+### 🗄️ Databases & Data
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" alt="PostgreSQL, MySQL, SQLite and Redis" />
+
+**PostgreSQL · MySQL · Microsoft SQL Server · SQL queries, joins & indexing fundamentals · ChromaDB (vector database) · Data modeling**
+
+### 🤖 Artificial Intelligence & GenAI
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="Python and AI ecosystem icons" />
+
+**Machine Learning · Deep Learning · NLP · Neural Networks · LLM Applications · Retrieval-Augmented Generation (RAG) · Prompt Engineering · Embeddings · Semantic Search · Vector Retrieval · Document AI · Ollama · ChromaDB**
+
+**Currently exploring and developing further:** Transformers · LangChain · LangGraph · Hugging Face · Agentic AI · Multi-Agent Workflows · LLM Fine-Tuning · Model Evaluation · PyTorch · TensorFlow · Scikit-learn · MLOps
+
+### ☁️ Cloud, DevOps & Developer Tools
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,linux,postman,vscode&theme=dark" alt="AWS, Docker, GitHub Actions, Git, Linux and developer tools" />
+
+**AWS · Docker · Docker Compose · Git/GitHub · GitHub Actions · CI/CD · AWS CodePipeline / CodeBuild · Render · Git workflow · Linux basics**
+
+**Learning next:** Kubernetes · Terraform · advanced system design · distributed messaging and Kafka
+
+### 🛰️ Geospatial & Hardware
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+
+**GIS · Remote Sensing · Satellite Imagery · Sentinel & MODIS Data · NDVI Analysis · Geospatial Data Pipelines · Arduino · Sensor Integration · IoT Prototyping**
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Tech Stack & Skills
+## 🧠 How I Build AI Systems
 
 <div align="center">
-
-### ☁️ Cloud & DevOps
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions&theme=dark" />
-</a>
-
-### ⚙️ Backend & APIs
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,flask,mysql,postgres,kafka&theme=dark" />
-</a>
-
-### 🛠️ Languages & Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,c,js,react,git,linux,html,tailwind&theme=dark" />
-</a>
-
-### 🌍 Geospatial & Satellite
-<p>
-  <img src="https://img.shields.io/badge/GIS-34A853?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Remote_Sensing-1A73E8?style=for-the-badge&logo=satellite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NDVI_Analysis-2E7D32?style=for-the-badge&logo=leaflet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentinel_Data-003087?style=for-the-badge&logo=esa&logoColor=white"/>
-</p>
-
+<img src="./assets/ai-pipeline.svg" width="100%" alt="Animated RAG workflow, from documents and OCR to citations" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I enjoy building **retrieval-augmented generation (RAG)** pipelines that transform unstructured material into searchable, context-aware answers. My implementations connect document processing, embeddings, ChromaDB, FastAPI, Ollama, and a React frontend, with attention to traceability and citations.
 
 ---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> Featured Projects
+## 🚀 Selected Projects
 
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🛰️ Geospatial Disaster Monitoring System
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GIS](https://img.shields.io/badge/-GIS-34A853?style=flat-square)
-![REST APIs](https://img.shields.io/badge/-REST_APIs-FF6F00?style=flat-square)
-![Remote Sensing](https://img.shields.io/badge/-Remote_Sensing-1A73E8?style=flat-square)
-
-> Cloud-native disaster risk platform ingesting multi-source raster/vector satellite data via containerised pipelines. Serverless NDVI & water-body extent module with automated district-level flood alerts.
-
-🔗 **[Live Demo](https://gdms-2026.onrender.com)**
-
+<h3>⚡ <a href="https://github.com/snehasish-s/FlowSync">FlowSync Pro</a></h3>
+<p><strong>React · TypeScript · Spring Boot · PostgreSQL · JWT · Docker</strong></p>
+<p>Full-stack operations and task management with secure authentication, task tracking, blockers, handovers, and cloud deployment.</p>
+<p><a href="https://github.com/snehasish-s/FlowSync">Source Code</a> · <a href="https://flowsync-web.onrender.com/">Live Demo</a></p>
 </td>
 <td width="50%" valign="top">
-
-### ⚡ Enterprise Backend System (PowerGrid)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-> Secure, scalable REST APIs for power distribution operations deployed on cloud with environment-based config & secret management.
-
-🔗 **[GitHub](https://github.com/snehasish-s/PowerGrid)**
-
+<h3>🧠 Vertebra Research — RAG Assistant</h3>
+<p><strong>Python · FastAPI · React · ChromaDB · Ollama · SQL Server</strong></p>
+<p>Document-based assistant for uploading files, extracting and chunking text, vector retrieval, and generating source-grounded answers.</p>
+<p><em>Document intelligence / applied GenAI</em></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🔧 DevOps Pipeline Visualizer
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-> Flask-based GitHub webhook dashboard with real-time CI/CD feed. AWS S3 for artifact storage, SNS for alerts, infrastructure via Terraform IaC.
-
-🔗 **[Live Demo](https://my-devopsdashboard.onrender.com)**
-
+<h3>🤖 AgentForge — AI Document Ops</h3>
+<p><strong>Python · FastAPI · React · SQL Server · ChromaDB · Ollama</strong></p>
+<p>AI-oriented document operations concept connecting backend services, vector search, document processing, and a frontend workspace.</p>
+<p><em>AI application architecture</em></p>
 </td>
 <td width="50%" valign="top">
-
-### 🏦 Akaunt — Enterprise Management System
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-> Full-featured enterprise management system with robust backend architecture, secure APIs, and comprehensive database design.
-
-🔗 **[GitHub](https://github.com/snehasish-s/akaunt-project)**
-
+<h3>🛰️ Geospatial Disaster Monitoring</h3>
+<p><strong>GIS · Remote Sensing · Docker · REST APIs</strong></p>
+<p>Disaster-monitoring concept built around satellite imagery, geospatial processing and district-level flood-risk insights.</p>
+<p><a href="https://gdms-2026.onrender.com/">Project Demo</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⚙️ <a href="https://github.com/snehasish-s/PowerGrid">PowerGrid</a></h3>
+<p><strong>Java · Spring Boot · REST APIs · Docker</strong></p>
+<p>Backend application focused on power-distribution workflows, modular services and data-driven API design.</p>
+<p><a href="https://github.com/snehasish-s/PowerGrid">Source Code</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🌡️ HeatSense Edge</h3>
+<p><strong>Arduino · Environmental Sensors · Embedded Logic · IoT</strong></p>
+<p>Edge-device prototype for thermal and environmental monitoring, sensor fusion and automated response workflows.</p>
+<p><em>IoT and edge systems</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔧 DevOps Pipeline Visualizer</h3>
+<p><strong>Python · Flask · GitHub Webhooks · AWS</strong></p>
+<p>CI/CD dashboard concept for pipeline activity, build feedback and deployment visibility.</p>
+<p><a href="https://my-devopsdashboard.onrender.com/">Project Demo</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🏦 <a href="https://github.com/snehasish-s/akaunt-project">Akaunt</a></h3>
+<p><strong>Java · Spring Boot · MySQL</strong></p>
+<p>Enterprise management application with structured data models, backend endpoints and service-layer architecture.</p>
+<p><a href="https://github.com/snehasish-s/akaunt-project">Source Code</a></p>
 </td>
 </tr>
 </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🐍 Contribution Snake
+## 💼 Professional Journey
+
+| Period | Experience | Areas of Work |
+|:--|:--|:--|
+| **Oct 2026 – Jan 2027** | **Full Stack Developer Trainee — Quess Corp** | Full-stack architecture, Spring Boot, React, software engineering practices and team project work |
+| **Jan 2026** | **Space Technology Trainee — NESAC, Dept. of Space (ISRO)** | Satellite data, GIS, remote sensing and geospatial analysis |
+| **Jun – Jul 2025** | **Java & Cloud Developer Intern — Tata Power Group** | Java/Spring Boot, REST APIs, Docker, cloud and backend development |
+
+### 🎓 Education
+
+**B.Tech — Computer Science & Engineering**  
+Aryan Institute of Engineering & Technology, Bhubaneswar · **Expected graduation: 2027**
+
+---
+
+## 🏆 Highlights & Recognition
+
+| Achievement | Highlight |
+|:--|:--|
+| 🤖 ISRO Robotics Challenge 2026 | Qualified through Round 4 (as listed in previous profile) |
+| 🏆 IIIT Bhubaneswar Hackathon | Winner (as listed in previous profile) |
+| 🎯 BPUT Hackathon | Selected presenter at BPUT Rourkela |
+| ☁️ Google Cloud | Associate Cloud Engineer learning journey via Coursera |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehasish-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4EE1D0&icon_color=A38AFF&text_color=C9D1D9" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=snehasish-s&theme=tokyonight&hide_border=true&background=0D1117&ring=4EE1D0&fire=A38AFF&currStreakLabel=4EE1D0" alt="GitHub activity streak" />
+  <br />
+  <img width="66%" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehasish-s&layout=compact&langs_count=9&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4EE1D0&text_color=C9D1D9" alt="Top languages by public repository code" />
+  <br />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=snehasish-s&theme=tokyo-night&bg_color=0D1117&color=B6C9E8&line=4EE1D0&point=A38AFF&area=true&hide_border=true" alt="GitHub activity graph" />
+</div>
 
-<!-- This stays blank until you (1) replace snehasish-s with your real GitHub username everywhere in this file, and (2) push snake.yml (provided separately) to .github/workflows/ in your snehasish-s/snehasish-s repo and let it run once -->
+<sub>Stats cards come from community services, may load intermittently, and are not formal proficiency measures.</sub>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+<p>Each contribution becomes part of the journey.</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasish-s/snehasish-s/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehasish-s/snehasish-s/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/snehasish-s/snehasish-s/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/snehasish-s/snehasish-s/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake moving across the GitHub contribution chart (available after the workflow runs)" />
 </picture>
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<sub>First-time setup: install <code>.github/workflows/snake.yml</code>, run the workflow once from the Actions tab, and let it publish the <code>output</code> branch.</sub>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats & Activity
+## 🎯 What I'm Exploring Next
 
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=snehasish-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=snehasish-s&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img width="90%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=snehasish-s&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=snehasish-s&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+- **AI engineering:** Transformers, RAG evaluation, fine-tuning fundamentals, agentic workflows, LangChain, LangGraph, Hugging Face and AI observability.
+- **Backend architecture:** system design, caching, API security, event-driven services, Kafka and scalable microservice patterns.
+- **DevOps & production:** Kubernetes, infrastructure as code, monitoring, deployment automation and cloud-native design.
 
 ---
 
-## 🏆 Trophies
+## 📫 Let's Connect
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=snehasish-s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SS,S,AAA,AA,A"/>
-
+  <p>Interested in collaborating on full-stack products, GenAI applications, open source, or cloud architecture?</p>
+  <a href="https://www.linkedin.com/in/snehasish-s"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:paridaommsnehasish@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://omm-snehasish-parida.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-20BFA9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1300&color=42DFC9&center=true&vCenter=true&width=760&height=45&lines=Thanks+for+visiting+my+profile!;Let's+build+something+meaningful+together." alt="Animated farewell message" /></p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:42DFC9,50:4BAAF5,100:A78BFA&height=110&section=footer" alt="Decorative gradient wave footer" />
 </div>
-
----
-
-## 🏆 Awards & Certifications
-
-<div align="center">
-
-| 🥇 Achievement | 📋 Details |
-|---|---|
-| 🤖 **ISRO Robotics Challenge 2026** | Qualified Round 4 nationally — autonomous systems with sensor data & mission-critical logic |
-| 🏆 **IIIT Bhubaneswar Hackathon** | **Winner** — cloud-integrated REST API solution under time constraints |
-| 🎯 **BPUT Hackathon** | Selected presenter at BPUT Rourkela for full-stack cloud-ready app |
-| ☁️ **Google Cloud – Associate Cloud Engineer Journey** | Coursera · Jun 2026 · Credential: `OLUVQ3BYG1NF` |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## <img src="https://media.giphy.com/media/xUOxfjsW3wqfDdqOI4/giphy.gif" width="30"> Random Dev Quote
-
-<div align="center">
-
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<a href="https://linkedin.com/in/snehasish-s">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-</a>
-&nbsp;
-<a href="mailto:ommsnehasishparidaa@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-</a>
-&nbsp;
-<a href="https://omm-snehasish-parida.com/">
-  <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
-</a>
-&nbsp;
-<a href="https://www.topcoder.com/members/751006">
-  <img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" height="40"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+great+together." alt="Contact Typing" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a9fd9,100:0e75b6&height=120&section=footer&animation=twinkling"/>
