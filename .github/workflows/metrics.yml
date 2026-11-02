@@ -1,0 +1,40 @@
+name: Refresh GitHub profile metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '42 4 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_metrics.py'
+      - '.github/workflows/metrics.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Generate metrics from GitHub REST API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: snehasish-s
+        run: python3 scripts/build_metrics.py
+      - name: Commit updated self-hosted SVG cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/metrics.svg assets/languages.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh GitHub profile visuals'
+            git push
+          fi
