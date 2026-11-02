@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 250" role="img" aria-labelledby="title desc">
+  <title id="title">From documents to grounded AI answers</title>
+  <desc id="desc">Animated diagram showing document ingestion, embedding, vector search, LLM inference, and responses with citations.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091427"/><stop offset="1" stop-color="#171C39"/></linearGradient><linearGradient id="line"><stop stop-color="#42E1CE"/><stop offset="1" stop-color="#AE92FF"/></linearGradient><filter id="blur"><feGaussianBlur stdDeviation="2.5"/></filter></defs>
+  <style>
+  .dash {stroke-dasharray:9 9;animation:dash 2.8s linear infinite}@keyframes dash{to{stroke-dashoffset:-36}}
+  .pulse {animation:pulse 2.1s ease-in-out infinite}@keyframes pulse{50%{opacity:.38}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect width="1160" height="250" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1158" height="248" rx="20" fill="none" stroke="#294E65" stroke-width="2"/>
+  <text x="38" y="38" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2.2" fill="#8CB7D4">HOW I BUILD AI-POWERED SYSTEMS</text>
+  <text x="39" y="66" font-family="Arial,sans-serif" font-size="13" fill="#D1E9F9">From raw data to retrieval-augmented responses</text>
+  <path class="dash" d="M201 145H286 M421 145H504 M640 145H722 M859 145H944" stroke="url(#line)" stroke-width="4" fill="none"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <rect x="35" y="104" width="166" height="84" rx="14" fill="#142C46" stroke="#45DACD" stroke-width="1.5"/>
+    <text x="118" y="137" font-size="20" fill="#FFFFFF" font-weight="700">01</text><text x="118" y="162" font-size="14" fill="#C9E5EF">Documents + OCR</text>
+    <rect x="286" y="104" width="135" height="84" rx="14" fill="#142C46" stroke="#55C3F5" stroke-width="1.5"/>
+    <text x="353" y="137" font-size="20" fill="#FFFFFF" font-weight="700">02</text><text x="353" y="162" font-size="14" fill="#C9E5EF">Embeddings</text>
+    <rect x="504" y="104" width="136" height="84" rx="14" fill="#142C46" stroke="#83B2FF" stroke-width="1.5"/>
+    <text x="572" y="137" font-size="20" fill="#FFFFFF" font-weight="700">03</text><text x="572" y="162" font-size="14" fill="#C9E5EF">Vector Search</text>
+    <rect x="722" y="104" width="137" height="84" rx="14" fill="#1E2749" stroke="#B093FF" stroke-width="1.5"/>
+    <text x="790" y="137" font-size="20" fill="#FFFFFF" font-weight="700">04</text><text x="790" y="162" font-size="14" fill="#C9E5EF">LLM + Context</text>
+    <rect x="944" y="104" width="177" height="84" rx="14" fill="#1D2F48" stroke="#47E2CF" stroke-width="1.5"/>
+    <text x="1032" y="137" font-size="20" fill="#FFFFFF" font-weight="700">05</text><text x="1032" y="162" font-size="14" fill="#C9E5EF">Cited Answers</text>
+  </g>
+  <circle cx="201" cy="145" r="4" fill="#47F1DD" class="pulse"/><circle cx="640" cy="145" r="4" fill="#9FD7FE" class="pulse"/>
+  <text x="580" y="225" font-family="Arial,sans-serif" font-size="13" text-anchor="middle" fill="#86AFC5">Python  /  FastAPI  /  ChromaDB  /  Ollama  /  React</text>
+</svg>
