@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Animated professional learning and internship timeline">
+<style>.trace{stroke-dasharray:12 16;animation:trail 6s linear infinite}@keyframes trail{to{stroke-dashoffset:-120}}.n{animation:pulse 2.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.n.two{animation-delay:.7s}.n.three{animation-delay:1.4s}@keyframes pulse{50%{transform:scale(1.18);opacity:.75}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="1200" height="280" rx="22" fill="#FBF5EE" stroke="#E4D4C8"/>
+<path class="trace" d="M120 143 H1080" stroke="#BA8676" stroke-width="5" stroke-linecap="round"/>
+<g class="n"><circle cx="150" cy="143" r="19" fill="#C26E56"/><circle cx="150" cy="143" r="9" fill="#F9ECE2"/></g>
+<g class="n two"><circle cx="597" cy="143" r="19" fill="#7F5B71"/><circle cx="597" cy="143" r="9" fill="#F9ECE2"/></g>
+<g class="n three"><circle cx="1040" cy="143" r="19" fill="#62846E"/><circle cx="1040" cy="143" r="9" fill="#F9ECE2"/></g>
+<g font-family="Georgia,serif" fill="#4B373A" font-size="25" font-weight="bold"><text x="150" y="58" text-anchor="middle">2025</text><text x="597" y="58" text-anchor="middle">2026</text><text x="1040" y="58" text-anchor="middle">2026–27</text></g>
+<g font-family="Arial,sans-serif" fill="#805F63" font-size="18" text-anchor="middle"><text x="150" y="88">Tata Power</text><text x="150" y="225">Java &amp; Cloud internship</text><text x="597" y="88">NESAC · ISRO</text><text x="597" y="225">Space technology training</text><text x="1040" y="88">Quess Corp</text><text x="1040" y="225">Full Stack Developer Trainee</text></g>
+<text x="599" y="258" text-anchor="middle" fill="#AE8377" font-family="Georgia,serif" font-size="17" font-style="italic">Learning through real systems and real teams</text>
+</svg>

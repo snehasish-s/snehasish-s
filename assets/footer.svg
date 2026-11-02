@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="165" viewBox="0 0 1200 165" role="img" aria-label="Warm animated thanks for visiting footer">
+<style>.heart{animation:beat 2.6s ease-in-out infinite;transform-origin:600px 66px}@keyframes beat{0%,100%{transform:scale(1)}40%{transform:scale(1.13)}55%{transform:scale(1.03)}}.line{stroke-dasharray:14 17;animation:drift 7s linear infinite}@keyframes drift{to{stroke-dashoffset:-124}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="1200" height="165" rx="24" fill="#694F59"/><path class="line" d="M35 119H1160" stroke="#E6A98C" stroke-width="3" fill="none"/>
+<text x="600" y="56" fill="#FFF6EB" text-anchor="middle" font-family="Georgia,serif" font-size="30">Thanks for being here.</text><text x="600" y="91" fill="#F0D7C6" text-anchor="middle" font-family="Arial" font-size="18">Let's build something meaningful together.</text><path class="heart" d="M600 117c-20-22-35-6-22 8l22 20 22-20c13-14-2-30-22-8z" fill="#F0B18E"/>
+</svg>

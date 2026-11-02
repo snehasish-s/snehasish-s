@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="85" viewBox="0 0 1200 85" role="img" aria-label="Animated craft and engineering ribbon">
+<style>.slide{animation:pan 22s linear infinite}@keyframes pan{to{transform:translateX(-600px)}}.pulse{animation:pulse 3s ease-in-out infinite}@keyframes pulse{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="1200" height="85" rx="18" fill="#674A55"/>
+<path d="M0 4H1200M0 81H1200" stroke="#E8C1A7" opacity=".5"/>
+<g class="slide" fill="#FFF4E9" font-family="Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="2">
+<text x="28" y="51">MAKE IT USEFUL</text><circle cx="249" cy="43" r="5" fill="#F2B287"/>
+<text x="282" y="51">BUILD WITH CARE</text><circle cx="527" cy="43" r="5" fill="#F2B287"/>
+<text x="560" y="51">LEARN EVERY DAY</text><circle cx="814" cy="43" r="5" fill="#F2B287"/>
+<text x="845" y="51">SHARE WHAT WORKS</text><circle cx="1098" cy="43" r="5" fill="#F2B287"/>
+<text x="1228" y="51">MAKE IT USEFUL</text><circle cx="1449" cy="43" r="5" fill="#F2B287"/>
+<text x="1482" y="51">BUILD WITH CARE</text><circle cx="1727" cy="43" r="5" fill="#F2B287"/>
+</g></svg>
